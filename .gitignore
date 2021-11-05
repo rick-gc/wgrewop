@@ -1,0 +1,9 @@
+app/armgcc/_build/
+boot/armgcc/_build/
+boot/armgcc_debug/_build/
+.vscode/
+.cproject
+.project
+.settings/language.settings.xml
+.prefs
+temp/
